@@ -1,0 +1,2273 @@
+WAREHOUSE_ID,WAREHOUSE_NAME,LOCATION_ID
+1269,Mexico City,3477
+1270,San Francisco,3484
+1271,San Francisco,3485
+1272,Sydney,3486
+1273,Beijing,3487
+1274,Sydney,3488
+1275,Bombay,3490
+1276,Sydney,3491
+1277,Bombay,3493
+1278,Beijing,3495
+1279,Beijing,3496
+1280,Beijing,3497
+1281,Mexico City,3498
+1282,Sydney,3499
+1283,Mexico City,3517
+1284,Bombay,3518
+1285,Bombay,3519
+1286,Beijing,3520
+1287,Sydney,3523
+1288,Beijing,3524
+1289,Mexico City,3526
+1290,Mexico City,3529
+1291,Sydney,3542
+1292,San Francisco,3543
+1293,Sydney,3544
+1294,"Southlake, Texas",3546
+1295,San Francisco,3548
+1296,Mexico City,3559
+1297,Mexico City,3560
+1298,Sydney,3561
+1299,Mexico City,3564
+1300,Bombay,3565
+1301,Mexico City,3566
+1302,San Francisco,3567
+1303,Sydney,3568
+1304,San Francisco,3569
+1305,San Francisco,3570
+1306,Beijing,3571
+1307,Mexico City,3576
+1308,Mexico City,3577
+1309,Mexico City,3578
+1310,Sydney,3579
+1311,Mexico City,3580
+1312,Sydney,3590
+1313,Sydney,3591
+1314,Mexico City,3592
+1315,Mexico City,3595
+1316,Bombay,3596
+1317,Sydney,3597
+1318,Sydney,3598
+1319,Mexico City,3615
+1320,Mexico City,3616
+1321,Sydney,3617
+1322,Sydney,3621
+1323,Bombay,3622
+1324,Beijing,3629
+1325,San Francisco,3630
+1326,Mexico City,3631
+1327,Bombay,3632
+1328,Mexico City,3633
+1329,Mexico City,3634
+1330,Bombay,3635
+1331,San Francisco,3637
+1332,San Francisco,3638
+1333,San Francisco,3639
+1334,"Seattle, Washington",3640
+1335,Mexico City,3641
+1336,Sydney,3642
+1337,Sydney,3643
+1338,Bombay,3644
+1339,San Francisco,3645
+1340,Sydney,3653
+1341,Sydney,3654
+1342,San Francisco,3655
+1343,Mexico City,3656
+1344,San Francisco,3660
+1345,Sydney,3661
+1346,San Francisco,3662
+1347,Sydney,3663
+1348,Sydney,3664
+1349,San Francisco,3668
+1350,Bombay,3669
+1351,Beijing,3671
+1352,Beijing,3680
+1353,Beijing,3681
+1354,Sydney,3683
+1355,Bombay,3684
+1356,Sydney,3689
+1357,Sydney,3690
+1358,Bombay,3692
+1359,Beijing,3693
+1360,San Francisco,3697
+1361,Sydney,3698
+1362,San Francisco,3701
+1363,Sydney,3706
+1364,Beijing,3707
+1365,Mexico City,3720
+1366,Sydney,3722
+1367,New Jersey,3723
+1368,Sydney,3728
+1369,Sydney,3732
+1370,Mexico City,3734
+1371,Mexico City,3735
+1372,Sydney,3736
+1373,Sydney,3737
+1374,San Francisco,3740
+1375,"Southlake, Texas",3741
+1376,San Francisco,3754
+1377,"Seattle, Washington",3759
+1378,San Francisco,3762
+1379,Sydney,3766
+1380,Toronto,3767
+1381,New Jersey,3769
+1382,"Seattle, Washington",3770
+1383,"Seattle, Washington",3771
+1384,"Seattle, Washington",3772
+1385,Mexico City,3773
+1386,Mexico City,3787
+1387,Mexico City,3788
+1388,Mexico City,3789
+1389,Mexico City,3796
+1390,San Francisco,3799
+1391,San Francisco,3800
+1392,San Francisco,3801
+1393,San Francisco,3802
+1394,Mexico City,3809
+1395,San Francisco,3820
+1396,Mexico City,3823
+1397,Sydney,3824
+1398,Mexico City,3825
+1399,Sydney,3826
+1400,Mexico City,3828
+1401,Mexico City,3829
+1402,Bombay,3830
+1403,San Francisco,3836
+1404,Sydney,3840
+1405,Sydney,3841
+1406,Bombay,3845
+1407,San Francisco,3846
+1408,Bombay,3847
+1409,Bombay,3854
+1410,San Francisco,3856
+1411,San Francisco,3858
+1412,Mexico City,3866
+1413,Mexico City,3876
+1414,San Francisco,3878
+1415,Bombay,3880
+1416,Bombay,3881
+1417,Bombay,3882
+1418,Mexico City,3883
+1419,Beijing,3888
+1420,San Francisco,3889
+1421,Mexico City,3893
+1422,Beijing,3898
+1423,Sydney,3899
+1424,Mexico City,3905
+1425,San Francisco,3910
+1426,Sydney,3911
+1427,Sydney,3914
+1428,San Francisco,3915
+1429,Mexico City,3917
+1430,Mexico City,3918
+1431,Beijing,3919
+1432,San Francisco,3920
+1433,Beijing,3922
+1434,Sydney,3923
+1435,Sydney,3925
+1436,Sydney,3926
+1437,San Francisco,3927
+1438,Sydney,3928
+1439,San Francisco,3937
+1440,Toronto,3938
+1441,San Francisco,3940
+1442,Beijing,3941
+1443,Bombay,3942
+1444,San Francisco,3943
+1445,New Jersey,3944
+1446,Beijing,3945
+1447,Mexico City,3946
+1448,Sydney,3949
+1449,Sydney,3951
+1450,San Francisco,3952
+1451,San Francisco,3953
+1452,"Southlake, Texas",3954
+1453,Sydney,3956
+1454,Sydney,3957
+1455,San Francisco,3970
+1456,Toronto,3972
+1457,"Seattle, Washington",3973
+1458,Bombay,3974
+1459,Mexico City,3975
+1460,San Francisco,3976
+1461,San Francisco,3977
+1462,Beijing,3979
+1463,Sydney,3980
+1464,Sydney,3981
+1465,Sydney,3982
+1466,Bombay,3983
+1467,Bombay,3984
+1468,"Seattle, Washington",3985
+1469,Toronto,3986
+1470,San Francisco,3987
+1471,Beijing,3988
+1472,Beijing,3991
+1473,Beijing,3992
+1474,Beijing,3994
+1475,Sydney,4012
+1476,San Francisco,4013
+1477,San Francisco,4016
+1478,Sydney,4017
+1479,Bombay,4021
+1480,Bombay,4023
+1481,Toronto,4024
+1482,"Seattle, Washington",4025
+1483,Toronto,4026
+1484,Mexico City,4028
+1485,Bombay,4029
+1486,Bombay,4030
+1487,"Seattle, Washington",4031
+1488,"Seattle, Washington",4032
+1489,Toronto,4033
+1490,Sydney,4034
+1491,Sydney,4043
+1492,San Francisco,4044
+1493,Sydney,4045
+1494,Mexico City,4050
+1495,Sydney,4055
+1496,Bombay,4056
+1497,Mexico City,4057
+1498,New Jersey,4058
+1499,Bombay,4059
+1500,Mexico City,4060
+1501,San Francisco,4061
+1502,Sydney,4066
+1503,Sydney,4068
+1504,Sydney,4074
+1505,Mexico City,4079
+1506,San Francisco,4080
+1507,New Jersey,4081
+1508,San Francisco,4082
+1509,Sydney,4085
+1510,Sydney,4086
+1511,Sydney,4087
+1512,San Francisco,4088
+1513,San Francisco,4089
+1514,Sydney,4097
+1515,Bombay,4100
+1516,Beijing,4110
+1517,Sydney,4118
+1518,Sydney,4122
+1519,San Francisco,4124
+1520,San Francisco,4127
+1521,Sydney,4128
+1522,Sydney,4129
+1523,New Jersey,4145
+1524,"Seattle, Washington",4146
+1525,San Francisco,4149
+1526,San Francisco,4150
+1527,Mexico City,4152
+1528,Beijing,4153
+1529,Sydney,4154
+1530,Beijing,4155
+1531,San Francisco,4156
+1532,Bombay,4161
+1533,New Jersey,4162
+1534,"Seattle, Washington",4163
+1535,Sydney,4165
+1536,"Seattle, Washington",4166
+1537,San Francisco,4167
+1538,New Jersey,4168
+1539,Toronto,4169
+1540,Beijing,4170
+1541,Toronto,4171
+1542,Sydney,4172
+1543,Sydney,4173
+1544,San Francisco,4174
+1545,Beijing,4175
+1546,Sydney,4179
+1547,Mexico City,4180
+1548,San Francisco,4181
+1549,Sydney,4183
+1550,Sydney,4184
+1551,Mexico City,4185
+1552,San Francisco,4186
+1553,San Francisco,4187
+1554,Mexico City,4197
+1555,San Francisco,4198
+1556,Mexico City,4199
+1557,Sydney,4200
+1558,San Francisco,4204
+1559,Sydney,4205
+1560,Mexico City,4206
+1561,Sydney,4210
+1562,Sydney,4211
+1563,Sydney,4212
+1564,Sydney,4213
+1565,San Francisco,4214
+1566,"Southlake, Texas",4216
+1567,San Francisco,4218
+1568,Beijing,4220
+1569,Sydney,4221
+1570,Bombay,4222
+1571,Sydney,4223
+1572,Sydney,4224
+1573,Sydney,4229
+1574,Bombay,4230
+1575,Sydney,4237
+1576,New Jersey,4238
+1577,Bombay,4242
+1578,Mexico City,4248
+1579,Mexico City,4249
+1580,Mexico City,4250
+1581,San Francisco,4251
+1582,San Francisco,4252
+1583,New Jersey,4253
+1584,Mexico City,4254
+1585,Bombay,4255
+1586,Mexico City,4256
+1587,Mexico City,4258
+1588,New Jersey,4259
+1589,Mexico City,4260
+1590,Bombay,4261
+1591,San Francisco,4262
+1592,Bombay,4264
+1593,San Francisco,4266
+1594,San Francisco,4267
+1595,San Francisco,4268
+1596,Sydney,4269
+1597,Sydney,4270
+1598,San Francisco,4271
+1599,San Francisco,4276
+1600,San Francisco,4280
+1601,San Francisco,4281
+1602,Bombay,4288
+1603,San Francisco,4289
+1604,San Francisco,4290
+1605,Mexico City,4291
+1606,New Jersey,4292
+1607,Mexico City,4307
+1608,Mexico City,4308
+1609,Mexico City,4310
+1610,San Francisco,4312
+1611,San Francisco,4315
+1612,San Francisco,4316
+1613,Mexico City,4317
+1614,Sydney,4320
+1615,Sydney,4321
+1616,Mexico City,4325
+1617,Beijing,4326
+1618,Sydney,4330
+1619,San Francisco,4331
+1620,Mexico City,4336
+1621,San Francisco,4337
+1622,Sydney,4338
+1623,Sydney,4340
+1624,Beijing,4343
+1625,Bombay,4345
+1626,Sydney,4346
+1627,"Southlake, Texas",4348
+1628,Sydney,4349
+1629,Sydney,4358
+1630,Mexico City,4359
+1631,Toronto,4361
+1632,Beijing,4362
+1633,Bombay,4363
+1634,Beijing,4364
+1635,Sydney,4365
+1636,Sydney,4366
+1637,Bombay,4367
+1638,New Jersey,4368
+1639,"Southlake, Texas",4369
+1640,New Jersey,4370
+1641,Sydney,4371
+1642,"Southlake, Texas",4372
+1643,Sydney,4380
+1644,Sydney,4381
+1645,San Francisco,4394
+1646,Mexico City,4402
+1647,Bombay,4404
+1648,Bombay,4408
+1649,Beijing,4413
+1650,"Seattle, Washington",4415
+1651,Beijing,4417
+1652,Beijing,4418
+1653,San Francisco,4419
+1654,Mexico City,4420
+1655,Bombay,4421
+1656,Sydney,4425
+1657,Mexico City,4426
+1658,Sydney,4427
+1659,Mexico City,4428
+1660,Sydney,4429
+1661,San Francisco,4430
+1662,Mexico City,4432
+1663,Sydney,4443
+1664,Mexico City,4446
+1665,"Seattle, Washington",4447
+1666,Sydney,4448
+1667,Beijing,4449
+1668,Mexico City,4465
+1669,Sydney,4467
+1670,Beijing,4468
+1671,Sydney,4472
+1672,Toronto,4480
+1673,Mexico City,4483
+1674,Sydney,4489
+1675,"Seattle, Washington",4490
+1676,Mexico City,4491
+1677,San Francisco,4511
+1678,San Francisco,4512
+1679,Sydney,4513
+1680,Sydney,4514
+1681,Sydney,4515
+1682,San Francisco,4516
+1683,Mexico City,4520
+1684,Sydney,4528
+1685,Mexico City,4531
+1686,Mexico City,4533
+1687,Sydney,4534
+1688,Bombay,4535
+1689,Sydney,4537
+1690,Mexico City,4538
+1691,Mexico City,4540
+1692,Mexico City,4542
+1693,Mexico City,4543
+1694,Bombay,4544
+1695,Beijing,4545
+1696,"Seattle, Washington",4546
+1697,Mexico City,4549
+1698,Bombay,4550
+1699,Sydney,4552
+1700,Sydney,4558
+1701,Sydney,4559
+1702,Mexico City,4568
+1703,San Francisco,4569
+1704,Sydney,4570
+1705,San Francisco,4571
+1706,Mexico City,4574
+1707,Mexico City,4577
+1708,Sydney,4578
+1709,Mexico City,4579
+1710,Mexico City,4581
+1711,"Seattle, Washington",4582
+1712,Sydney,4583
+1713,"Seattle, Washington",4586
+1714,Mexico City,4593
+1715,Sydney,4595
+1716,Sydney,4596
+1717,Mexico City,4597
+1718,Mexico City,4598
+1719,Sydney,4599
+1720,Beijing,4604
+1721,Beijing,4605
+1722,Sydney,4609
+1723,San Francisco,4610
+1724,Mexico City,4611
+1725,Sydney,4612
+1726,San Francisco,4615
+1727,Sydney,4616
+1728,Mexico City,4619
+1729,Mexico City,4620
+1730,Sydney,4621
+1731,San Francisco,4622
+1732,Mexico City,4623
+1733,Mexico City,4624
+1734,Sydney,4625
+1735,Mexico City,4626
+1736,Beijing,4630
+1737,Mexico City,4632
+1738,Bombay,4633
+1739,Sydney,4634
+1740,San Francisco,4635
+1741,Mexico City,4637
+1742,San Francisco,4638
+1743,San Francisco,4639
+1744,Bombay,4655
+1745,San Francisco,4656
+1746,San Francisco,4657
+1747,San Francisco,4659
+1748,San Francisco,4660
+1749,Sydney,4661
+1750,Sydney,4663
+1751,San Francisco,4671
+1752,Mexico City,4677
+1753,Mexico City,4678
+1754,Sydney,4679
+1755,San Francisco,4680
+1756,Mexico City,4681
+1757,Sydney,4682
+1758,Mexico City,4683
+1759,Sydney,4689
+1760,Mexico City,4703
+1761,San Francisco,4704
+1762,San Francisco,4705
+1763,Sydney,4706
+1764,Mexico City,4707
+1765,Sydney,4709
+1766,Sydney,4710
+1767,Mexico City,4712
+1768,San Francisco,4713
+1769,Beijing,4714
+1770,San Francisco,4725
+1771,Bombay,4726
+1772,Sydney,4727
+1773,Mexico City,4741
+1774,San Francisco,4745
+1775,Mexico City,4750
+1776,New Jersey,4751
+1777,Bombay,4752
+1778,Sydney,4754
+1779,Sydney,4755
+1780,Sydney,4756
+1781,Sydney,4757
+1782,Bombay,4758
+1783,Mexico City,4764
+1784,Bombay,4765
+1785,Sydney,4768
+1786,Sydney,4769
+1787,San Francisco,4771
+1788,Sydney,4772
+1789,Sydney,4773
+1790,Mexico City,4774
+1791,Mexico City,4775
+1792,Bombay,4776
+1793,San Francisco,4777
+1794,Mexico City,4778
+1795,Mexico City,4779
+1796,San Francisco,4780
+1797,San Francisco,4782
+1798,San Francisco,4783
+1799,Sydney,4787
+1800,Bombay,4789
+1801,Bombay,4791
+1802,Toronto,4792
+1803,San Francisco,4793
+1804,Sydney,4801
+1805,Sydney,4802
+1806,Sydney,4803
+1807,Mexico City,4806
+1808,Sydney,4807
+1809,Sydney,4813
+1810,Sydney,4815
+1811,Sydney,4821
+1812,Beijing,4822
+1813,Beijing,4826
+1814,Bombay,4828
+1815,Sydney,4839
+1816,San Francisco,4840
+1817,Mexico City,4841
+1818,San Francisco,4844
+1819,Mexico City,4845
+1820,Mexico City,4846
+1821,Sydney,4847
+1822,San Francisco,4848
+1823,Sydney,4855
+1824,Sydney,4859
+1825,Mexico City,4861
+1826,Bombay,4864
+1827,Mexico City,4867
+1828,Beijing,4900
+1829,Sydney,4901
+1830,Sydney,4902
+1831,New Jersey,4903
+1832,Mexico City,4904
+1833,Mexico City,4905
+1834,Beijing,4906
+1835,San Francisco,4907
+1836,Mexico City,4913
+1837,Sydney,4924
+1838,Mexico City,4925
+1839,Bombay,4928
+1840,Sydney,4929
+1841,Beijing,4940
+1842,Sydney,4941
+1843,Mexico City,4942
+1844,Mexico City,4946
+1845,Sydney,4947
+1846,Mexico City,4948
+1847,Mexico City,4949
+1848,Mexico City,4951
+1849,San Francisco,4952
+1850,Sydney,4955
+1851,Mexico City,4956
+1852,Bombay,4957
+1853,Sydney,4959
+1854,Sydney,4960
+1855,Sydney,4961
+1856,Sydney,4964
+1857,Sydney,4965
+1858,Sydney,4966
+1859,Sydney,4967
+1860,Sydney,4971
+1861,San Francisco,4972
+1862,San Francisco,4973
+1863,San Francisco,4974
+1864,Bombay,4977
+1865,New Jersey,4978
+1866,"Southlake, Texas",4979
+1867,"Southlake, Texas",4980
+1868,Sydney,4981
+1869,Sydney,4982
+1870,Sydney,4983
+1871,Mexico City,4986
+1872,Mexico City,4988
+1873,Bombay,4993
+1874,Sydney,4995
+1875,Mexico City,5006
+1876,Bombay,5014
+1877,Sydney,5016
+1878,Sydney,5017
+1879,Mexico City,5024
+1880,Bombay,5035
+1881,New Jersey,5036
+1882,Bombay,5037
+1883,Sydney,5042
+1884,San Francisco,5043
+1885,Bombay,5052
+1886,Sydney,5053
+1887,Bombay,5054
+1888,Bombay,5061
+1889,San Francisco,5070
+1890,Mexico City,5078
+1891,Sydney,5079
+1892,Sydney,5080
+1893,Sydney,5081
+1894,"Seattle, Washington",5086
+1895,"Seattle, Washington",5087
+1896,Mexico City,5088
+1897,Mexico City,5090
+1898,Sydney,5097
+1899,San Francisco,5101
+1900,Toronto,5107
+1901,San Francisco,5108
+1902,San Francisco,5109
+1903,Mexico City,5110
+1904,Sydney,5111
+1905,San Francisco,5112
+1906,Sydney,5114
+1907,San Francisco,5115
+1908,Toronto,5116
+1909,Mexico City,5122
+1910,Mexico City,5123
+1911,Sydney,5125
+1912,San Francisco,5126
+1913,San Francisco,5130
+1914,Sydney,5133
+1915,Bombay,5134
+1916,Sydney,5136
+1917,Sydney,5137
+1918,Sydney,5138
+1919,Mexico City,5139
+1920,Sydney,5140
+1921,Sydney,5141
+1922,Bombay,5147
+1923,San Francisco,5148
+1924,Sydney,5149
+1925,Mexico City,5150
+1926,Toronto,5151
+1927,Mexico City,5156
+1928,Sydney,5157
+1929,Beijing,5160
+1930,New Jersey,5165
+1931,San Francisco,5166
+1932,Sydney,5169
+1933,Sydney,5170
+1934,Mexico City,5171
+1935,Mexico City,5172
+1936,Mexico City,5179
+1937,Mexico City,5180
+1938,Bombay,5181
+1939,Bombay,5187
+1940,Sydney,5190
+1941,Sydney,5195
+1942,Sydney,5198
+1943,Sydney,5205
+1944,Sydney,5207
+1945,Mexico City,5208
+1946,Mexico City,5214
+1947,Mexico City,5215
+1948,San Francisco,5216
+1949,Beijing,5217
+1950,Mexico City,5218
+1951,Sydney,5219
+1952,Sydney,5225
+1953,San Francisco,5226
+1954,Mexico City,5240
+1955,Beijing,5241
+1956,Mexico City,5242
+1957,San Francisco,5243
+1958,San Francisco,5250
+1959,San Francisco,5251
+1960,Sydney,5252
+1961,New Jersey,5253
+1962,New Jersey,5254
+1963,New Jersey,5256
+1964,Sydney,5263
+1965,Sydney,5266
+1966,San Francisco,5271
+1967,Toronto,5277
+1968,Sydney,5279
+1969,San Francisco,5280
+1970,Bombay,5282
+1971,Mexico City,5283
+1972,Mexico City,5284
+1973,Mexico City,5285
+1974,Beijing,5294
+1975,San Francisco,5295
+1976,"Southlake, Texas",5296
+1977,Beijing,5297
+1978,Sydney,5307
+1979,Sydney,5319
+1980,"Southlake, Texas",5320
+1981,San Francisco,5321
+1982,Beijing,5322
+1983,Beijing,5323
+1984,Toronto,5324
+1985,Mexico City,5329
+1986,Sydney,5330
+1987,Bombay,5331
+1988,Bombay,5332
+1989,San Francisco,5333
+1990,Bombay,5334
+1991,"Seattle, Washington",5335
+1992,Beijing,5336
+1993,Sydney,5344
+1994,Mexico City,5345
+1995,Mexico City,5349
+1996,Bombay,5358
+1997,Mexico City,5365
+1998,San Francisco,5366
+1999,Bombay,5367
+2000,Bombay,5371
+2001,Mexico City,5373
+2002,Mexico City,5376
+2003,Bombay,5377
+2004,New Jersey,5378
+2005,"Seattle, Washington",5379
+2006,Bombay,5380
+2007,Sydney,5381
+2008,Toronto,5382
+2009,New Jersey,5383
+2010,Toronto,5385
+2011,Sydney,5386
+2012,Beijing,5387
+2013,Beijing,5388
+2014,Beijing,5390
+2015,Sydney,5391
+2016,Mexico City,5394
+2017,Mexico City,5398
+2018,Sydney,5401
+2019,Mexico City,5402
+2020,Mexico City,5411
+2021,San Francisco,5412
+2022,Beijing,5413
+2023,San Francisco,5418
+2024,San Francisco,5422
+2025,Beijing,5423
+2026,Beijing,5424
+2027,Sydney,5425
+2028,San Francisco,5427
+2029,San Francisco,5428
+2030,San Francisco,5429
+2031,Bombay,5430
+2032,Sydney,5431
+2033,Bombay,5432
+2034,Bombay,5433
+2035,San Francisco,5434
+2036,Bombay,5435
+2037,Sydney,5459
+2038,Sydney,5463
+2039,Sydney,5464
+2040,Sydney,5468
+2041,Bombay,5475
+2042,Sydney,5476
+2043,Mexico City,5488
+2044,Toronto,5489
+2045,Bombay,5490
+2046,"Southlake, Texas",5491
+2047,Toronto,5492
+2048,"Southlake, Texas",5493
+2049,Mexico City,5500
+2050,Beijing,5505
+2051,Sydney,5508
+2052,Beijing,5509
+2053,San Francisco,5510
+2054,San Francisco,5512
+2055,San Francisco,5513
+2056,Beijing,5514
+2057,Mexico City,5515
+2058,Mexico City,5517
+2059,San Francisco,5518
+2060,San Francisco,5523
+2061,San Francisco,5525
+2062,Beijing,5529
+2063,Beijing,5530
+2064,Mexico City,5531
+2065,Beijing,5576
+2066,San Francisco,5577
+2067,San Francisco,5578
+2068,San Francisco,5587
+2069,San Francisco,5590
+2070,Sydney,5591
+2071,San Francisco,5592
+2072,Mexico City,5593
+2073,Beijing,5594
+2074,Mexico City,5595
+2075,Bombay,5596
+2076,Sydney,5597
+2077,"Seattle, Washington",5598
+2078,San Francisco,5602
+2079,San Francisco,5603
+2080,Mexico City,5609
+2081,Sydney,5610
+2082,San Francisco,5611
+2083,Sydney,5613
+2084,San Francisco,5619
+2085,Sydney,5622
+2086,Sydney,5623
+2087,San Francisco,5624
+2088,San Francisco,5625
+2089,Sydney,5626
+2090,Mexico City,5627
+2091,Mexico City,5630
+2092,Sydney,5638
+2093,Mexico City,5651
+2094,San Francisco,5654
+2095,San Francisco,5655
+2096,"Seattle, Washington",5662
+2097,Sydney,5665
+2098,Sydney,5667
+2099,Sydney,5669
+2100,Mexico City,5670
+2101,San Francisco,5671
+2102,Beijing,5676
+2103,San Francisco,5677
+2104,San Francisco,5681
+2105,"Southlake, Texas",5682
+2106,Beijing,5687
+2107,Mexico City,5688
+2108,Beijing,5689
+2109,Mexico City,5696
+2110,Mexico City,5697
+2111,Sydney,5702
+2112,Sydney,5703
+2113,San Francisco,5706
+2114,Mexico City,5712
+2115,Sydney,5713
+2116,Sydney,5714
+2117,New Jersey,5715
+2118,San Francisco,5716
+2119,Sydney,5717
+2120,San Francisco,5718
+2121,Sydney,5719
+2122,San Francisco,5721
+2123,Sydney,5728
+2124,San Francisco,5729
+2125,Sydney,5730
+2126,San Francisco,5731
+2127,Beijing,5736
+2128,San Francisco,5737
+2129,San Francisco,5738
+2130,Sydney,5740
+2131,Sydney,5745
+2132,San Francisco,5747
+2133,San Francisco,5748
+2134,Mexico City,5758
+2135,Sydney,5762
+2136,"Southlake, Texas",5771
+2137,Mexico City,5775
+2138,Sydney,5777
+2139,Sydney,5778
+2140,Mexico City,5780
+2141,Sydney,5781
+2142,Mexico City,5795
+2143,Sydney,5796
+2144,Sydney,5797
+2145,Sydney,5800
+2146,Mexico City,5801
+2147,Mexico City,5802
+2148,Bombay,5803
+2149,Bombay,5804
+2150,Mexico City,5805
+2151,Sydney,5806
+2152,Sydney,5810
+2153,Sydney,5815
+2154,Sydney,5816
+2155,Beijing,5819
+2156,Sydney,5825
+2157,Mexico City,5827
+2158,San Francisco,5829
+2159,Beijing,5830
+2160,"Seattle, Washington",5831
+2161,San Francisco,5835
+2162,San Francisco,5836
+2163,Sydney,5837
+2164,Mexico City,5838
+2165,Mexico City,5839
+2166,Mexico City,5840
+2167,Bombay,5841
+2168,Mexico City,5842
+2169,San Francisco,5843
+2170,Toronto,5844
+2171,San Francisco,5845
+2172,Sydney,5846
+2173,Sydney,5849
+2174,Bombay,5850
+2175,Beijing,5863
+2176,New Jersey,5864
+2177,San Francisco,5867
+2178,Sydney,5868
+2179,Mexico City,5869
+2180,Sydney,5870
+2181,San Francisco,5877
+2182,Bombay,5891
+2183,Mexico City,5892
+2184,Sydney,5893
+2185,Mexico City,5894
+2186,New Jersey,5895
+2187,Sydney,5896
+2188,Bombay,5897
+2189,Sydney,5900
+2190,Sydney,5903
+2191,Sydney,5911
+2192,Sydney,5912
+2193,Toronto,5922
+2194,Mexico City,5923
+2195,"Southlake, Texas",5924
+2196,Mexico City,5928
+2197,Sydney,5929
+2198,Beijing,5930
+2199,San Francisco,5939
+2200,Mexico City,5941
+2201,Sydney,5942
+2202,Sydney,5943
+2203,Sydney,5949
+2204,Sydney,5950
+2205,Mexico City,5955
+2206,Mexico City,5958
+2207,Sydney,5972
+2208,San Francisco,5974
+2209,San Francisco,5977
+2210,Bombay,5978
+2211,Mexico City,5979
+2212,Mexico City,5980
+2213,"Southlake, Texas",5981
+2214,Sydney,5984
+2215,Mexico City,5985
+2216,San Francisco,5992
+2217,San Francisco,5993
+2218,Sydney,5994
+2219,Mexico City,5996
+2220,Sydney,5997
+2221,Sydney,6006
+2222,Sydney,6008
+2223,New Jersey,6009
+2224,San Francisco,6011
+2225,Sydney,6012
+2226,"Southlake, Texas",6013
+2227,Sydney,6017
+2228,Sydney,6018
+2229,San Francisco,6019
+2230,San Francisco,6023
+2231,San Francisco,6026
+2232,San Francisco,6027
+2233,Sydney,6028
+2234,Beijing,6040
+2235,Beijing,6041
+2236,Sydney,6044
+2237,Sydney,6045
+2238,Sydney,6050
+2239,Mexico City,6053
+2240,San Francisco,6065
+2241,San Francisco,6066
+2242,Beijing,6067
+2243,San Francisco,6069
+2244,Mexico City,6070
+2245,Bombay,6075
+2246,Sydney,6076
+2247,"Seattle, Washington",6080
+2248,Sydney,6082
+2249,Mexico City,6083
+2250,San Francisco,6086
+2251,Sydney,6090
+2252,Mexico City,6096
+2253,Sydney,6098
+2254,Beijing,6099
+2255,San Francisco,6100
+2256,New Jersey,6101
+2257,San Francisco,6102
+2258,Beijing,6105
+2259,San Francisco,6106
+2260,Sydney,6107
+2261,New Jersey,6108
+2262,San Francisco,6109
+2263,San Francisco,6110
+2264,San Francisco,6111
+2265,San Francisco,6112
+2266,San Francisco,6113
+2267,Beijing,6114
+2268,Mexico City,6115
+2269,Beijing,6116
+2270,Beijing,6117
+2271,Sydney,6118
+2272,"Seattle, Washington",6126
+2273,Bombay,6127
+2274,New Jersey,6129
+2275,San Francisco,6131
+2276,"Southlake, Texas",6132
+2277,Sydney,6133
+2278,Beijing,6136
+2279,Beijing,6138
+2280,Mexico City,6140
+2281,San Francisco,6141
+2282,Bombay,6142
+2283,Mexico City,6143
+2284,Mexico City,6147
+2285,Beijing,6152
+2286,"Seattle, Washington",6153
+2287,San Francisco,6154
+2288,Sydney,6156
+2289,Bombay,6157
+2290,"Seattle, Washington",6158
+2291,Toronto,6160
+2292,Beijing,6161
+2293,Bombay,6166
+2294,"Seattle, Washington",6169
+2295,"Southlake, Texas",6170
+2296,Sydney,6171
+2297,New Jersey,6176
+2298,Beijing,6177
+2299,Beijing,6178
+2300,San Francisco,6179
+2301,Bombay,6180
+2302,"Southlake, Texas",6189
+2303,Sydney,6194
+2304,Mexico City,6195
+2305,Mexico City,6196
+2306,Bombay,6197
+2307,New Jersey,6198
+2308,New Jersey,6199
+2309,Mexico City,6200
+2310,"Seattle, Washington",6202
+2311,Sydney,6210
+2312,Sydney,6212
+2313,Mexico City,6213
+2314,Bombay,6214
+2315,Sydney,6218
+2316,Sydney,6219
+2317,Sydney,6220
+2318,New Jersey,6222
+2319,San Francisco,6223
+2320,San Francisco,6228
+2321,Beijing,6240
+2322,Sydney,6245
+2323,"Southlake, Texas",6246
+2324,Mexico City,6250
+2325,Bombay,6256
+2326,Sydney,6261
+2327,Mexico City,6263
+2328,Mexico City,6264
+2329,Mexico City,6265
+2330,Sydney,6266
+2331,Bombay,6267
+2332,San Francisco,6268
+2333,Bombay,6269
+2334,Mexico City,6270
+2335,Beijing,6271
+2336,Beijing,6272
+2337,Beijing,6273
+2338,Beijing,6274
+2339,Sydney,6275
+2340,"Seattle, Washington",6276
+2341,Beijing,6277
+2342,San Francisco,6278
+2343,Toronto,6286
+2344,San Francisco,6287
+2345,Sydney,6295
+2346,Beijing,6301
+2347,"Southlake, Texas",6303
+2348,Toronto,6304
+2349,Mexico City,6307
+2350,Sydney,6308
+2351,San Francisco,6309
+2352,San Francisco,6310
+2353,Sydney,6317
+2354,Sydney,6318
+2355,Sydney,6333
+2356,San Francisco,6334
+2357,Mexico City,6335
+2358,San Francisco,6336
+2359,San Francisco,6337
+2360,Sydney,6338
+2361,San Francisco,6341
+2362,Mexico City,6344
+2363,Mexico City,6349
+2364,San Francisco,6351
+2365,Mexico City,6352
+2366,San Francisco,6355
+2367,Mexico City,6356
+2368,Bombay,6365
+2369,"Southlake, Texas",6366
+2370,Mexico City,6370
+2371,Sydney,6371
+2372,San Francisco,6373
+2373,San Francisco,6374
+2374,San Francisco,6375
+2375,Sydney,6377
+2376,Beijing,6378
+2377,Sydney,6380
+2378,Mexico City,6382
+2379,Sydney,6383
+2380,San Francisco,6384
+2381,Mexico City,6385
+2382,San Francisco,6386
+2383,Mexico City,6391
+2384,Sydney,6392
+2385,Mexico City,6393
+2386,Sydney,6394
+2387,Beijing,6396
+2388,Sydney,6400
+2389,Bombay,6401
+2390,Mexico City,6403
+2391,Mexico City,6409
+2392,Sydney,6410
+2393,San Francisco,6411
+2394,"Seattle, Washington",6412
+2395,Sydney,6413
+2396,San Francisco,6417
+2397,Bombay,6420
+2398,Toronto,6433
+2399,San Francisco,6449
+2400,Bombay,6450
+2401,Mexico City,6456
+2402,Mexico City,6459
+2403,Sydney,6460
+2404,Sydney,6461
+2405,Mexico City,6462
+2406,Mexico City,6463
+2407,San Francisco,6468
+2408,Mexico City,6469
+2409,"Southlake, Texas",6474
+2410,San Francisco,6476
+2411,San Francisco,6485
+2412,Sydney,6487
+2413,Bombay,6494
+2414,Sydney,6501
+2415,Sydney,6502
+2416,Mexico City,6503
+2417,Mexico City,6504
+2418,Mexico City,6505
+2419,Sydney,6508
+2420,Mexico City,6509
+2421,Sydney,6512
+2422,San Francisco,6520
+2423,San Francisco,6521
+2424,San Francisco,6529
+2425,Beijing,6531
+2426,Mexico City,6533
+2427,Sydney,6534
+2428,Sydney,6537
+2429,Mexico City,6539
+2430,Beijing,6542
+2431,New Jersey,6543
+2432,Beijing,6547
+2433,San Francisco,6548
+2434,Beijing,6549
+2435,Sydney,6550
+2436,Mexico City,6551
+2437,Bombay,6552
+2438,Sydney,6555
+2439,Sydney,6556
+2440,Bombay,6557
+2441,San Francisco,6558
+2442,Bombay,6559
+2443,Sydney,6560
+2444,Sydney,6561
+2445,Mexico City,6564
+2446,San Francisco,6567
+2447,San Francisco,6568
+2448,Bombay,6569
+2449,San Francisco,6570
+2450,Sydney,6571
+2451,San Francisco,6574
+2452,San Francisco,6577
+2453,San Francisco,6585
+2454,Sydney,6586
+2455,Mexico City,6588
+2456,Mexico City,6589
+2457,New Jersey,6604
+2458,Beijing,6605
+2459,Mexico City,6606
+2460,"Seattle, Washington",6617
+2461,Sydney,6619
+2462,Sydney,6620
+2463,San Francisco,6621
+2464,Sydney,6626
+2465,Beijing,6636
+2466,Sydney,6659
+2467,New Jersey,6663
+2468,Sydney,6672
+2469,San Francisco,6674
+2470,Mexico City,6675
+2471,San Francisco,6676
+2472,San Francisco,6677
+2473,Sydney,6682
+2474,Sydney,6683
+2475,San Francisco,6684
+2476,Bombay,6690
+2477,Sydney,6692
+2478,Sydney,6693
+2479,Sydney,6694
+2480,Beijing,6695
+2481,San Francisco,6696
+2482,San Francisco,6697
+2483,"Southlake, Texas",6698
+2484,Mexico City,6699
+2485,Mexico City,6700
+2486,Mexico City,6701
+2487,Beijing,6702
+2488,Sydney,6704
+2489,Sydney,6706
+2490,San Francisco,6723
+2491,San Francisco,6724
+2492,San Francisco,6730
+2493,Mexico City,6731
+2494,Sydney,6738
+2495,Beijing,6745
+2496,Sydney,6746
+2497,Sydney,6750
+2498,Sydney,6751
+2499,Sydney,6752
+2500,San Francisco,6782
+2501,Mexico City,6783
+2502,Sydney,6784
+2503,Sydney,6791
+2504,San Francisco,6796
+2505,Sydney,6797
+2506,San Francisco,6798
+2507,"Seattle, Washington",6799
+2508,Bombay,6800
+2509,Sydney,6801
+2510,San Francisco,6805
+2511,"Southlake, Texas",6811
+2512,Bombay,6814
+2513,New Jersey,6815
+2514,Mexico City,6816
+2515,Sydney,6817
+2516,San Francisco,6819
+2517,Sydney,6829
+2518,Sydney,6848
+2519,Beijing,6850
+2520,New Jersey,6851
+2521,Sydney,6852
+2522,Sydney,6855
+2523,Sydney,6858
+2524,Sydney,6859
+2525,Mexico City,6860
+2526,Sydney,6862
+2527,Bombay,6863
+2528,Mexico City,6864
+2529,Mexico City,6865
+2530,Sydney,6866
+2531,Mexico City,6867
+2532,Sydney,6868
+2533,Sydney,6876
+2534,Sydney,6888
+2535,Sydney,6889
+2536,San Francisco,6895
+2537,Mexico City,6896
+2538,Sydney,6907
+2539,Beijing,6908
+2540,Sydney,6909
+2541,Bombay,6910
+2542,Mexico City,6911
+2543,Bombay,6912
+2544,Beijing,6913
+2545,San Francisco,6914
+2546,Beijing,6915
+2547,Beijing,6916
+2548,Sydney,6917
+2549,Sydney,6918
+2550,Sydney,6919
+2551,Sydney,6920
+2552,Mexico City,6921
+2553,Beijing,6932
+2554,San Francisco,6933
+2555,New Jersey,6935
+2556,San Francisco,6937
+2557,Sydney,6938
+2558,Sydney,6940
+2559,Sydney,6941
+2560,Mexico City,6942
+2561,Mexico City,6943
+2562,San Francisco,6944
+2563,Sydney,6945
+2564,San Francisco,6955
+2565,Mexico City,6956
+2566,San Francisco,6957
+2567,San Francisco,6958
+2568,Sydney,6959
+2569,San Francisco,6960
+2570,San Francisco,6963
+2571,Beijing,6966
+2572,Mexico City,6971
+2573,Sydney,6972
+2574,Bombay,6973
+2575,San Francisco,6981
+2576,Sydney,6982
+2577,"Seattle, Washington",6984
+2578,San Francisco,6985
+2579,San Francisco,6986
+2580,San Francisco,6987
+2581,Mexico City,6988
+2582,Mexico City,7004
+2583,Sydney,7005
+2584,Beijing,7006
+2585,New Jersey,7007
+2586,"Southlake, Texas",7008
+2587,San Francisco,7009
+2588,"Southlake, Texas",7015
+2589,Sydney,7017
+2590,Bombay,7018
+2591,Bombay,7019
+2592,Mexico City,7022
+2593,Sydney,7023
+2594,Bombay,7024
+2595,Mexico City,7026
+2596,Sydney,7031
+2597,Mexico City,7032
+2598,San Francisco,7034
+2599,San Francisco,7035
+2600,San Francisco,7036
+2601,San Francisco,7037
+2602,San Francisco,7040
+2603,Sydney,7041
+2604,"Seattle, Washington",7051
+2605,San Francisco,7052
+2606,Mexico City,7053
+2607,Sydney,7054
+2608,Sydney,7055
+2609,"Southlake, Texas",7056
+2610,New Jersey,7057
+2611,Sydney,7060
+2612,Mexico City,7061
+2613,Mexico City,7062
+2614,San Francisco,7063
+2615,Sydney,7066
+2616,Mexico City,7067
+2617,Sydney,7068
+2618,Sydney,7069
+2619,Sydney,7070
+2620,Sydney,7071
+2621,New Jersey,7074
+2622,Sydney,7079
+2623,Sydney,7080
+2624,Sydney,7082
+2625,Beijing,7083
+2626,Sydney,7085
+2627,Sydney,7086
+2628,Bombay,7094
+2629,"Southlake, Texas",7095
+2630,Sydney,7096
+2631,Sydney,7097
+2632,Beijing,7098
+2633,San Francisco,7099
+2634,San Francisco,7100
+2635,New Jersey,7101
+2636,New Jersey,7102
+2637,Mexico City,7107
+2638,Mexico City,7108
+2639,San Francisco,7109
+2640,San Francisco,7110
+2641,Sydney,7112
+2642,San Francisco,7113
+2643,San Francisco,7114
+2644,Bombay,7117
+2645,Sydney,7118
+2646,Bombay,7120
+2647,Sydney,7126
+2648,San Francisco,7127
+2649,San Francisco,7132
+2650,San Francisco,7133
+2651,San Francisco,7135
+2652,Mexico City,7137
+2653,New Jersey,7143
+2654,"Seattle, Washington",7144
+2655,"Seattle, Washington",7145
+2656,Beijing,7146
+2657,San Francisco,7147
+2658,San Francisco,7148
+2659,Sydney,7154
+2660,Beijing,7158
+2661,Mexico City,7159
+2662,Beijing,7160
+2663,Sydney,7162
+2664,New Jersey,7173
+2665,Beijing,7174
+2666,Mexico City,7175
+2667,Sydney,7176
+2668,Mexico City,7177
+2669,Sydney,7178
+2670,Sydney,7179
+2671,Mexico City,7180
+2672,San Francisco,7181
+2673,Bombay,7182
+2674,Bombay,7183
+2675,Sydney,7185
+2676,Sydney,7192
+2677,Sydney,7199
+2678,Sydney,7200
+2679,San Francisco,7206
+2680,Toronto,7207
+2681,San Francisco,7208
+2682,Sydney,7210
+2683,Sydney,7219
+2684,Sydney,7220
+2685,Sydney,7221
+2686,Sydney,7222
+2687,Mexico City,7223
+2688,San Francisco,7232
+2689,Mexico City,7234
+2690,Bombay,7235
+2691,Mexico City,7236
+2692,Sydney,7242
+2693,Sydney,7244
+2694,Sydney,7245
+2695,San Francisco,7248
+2696,Sydney,7249
+2697,San Francisco,7253
+2698,Mexico City,7256
+2699,Mexico City,7268
+2700,Bombay,7269
+2701,Sydney,7270
+2702,New Jersey,7271
+2703,"Seattle, Washington",7275
+2704,Mexico City,7276
+2705,San Francisco,7277
+2706,Sydney,7278
+2707,Sydney,7279
+2708,Sydney,7280
+2709,Beijing,7281
+2710,Sydney,7282
+2711,Bombay,7287
+2712,Bombay,7288
+2713,Bombay,7290
+2714,Mexico City,7291
+2715,San Francisco,7292
+2716,Sydney,7293
+2717,Sydney,7294
+2718,Sydney,7295
+2719,Sydney,7296
+2720,San Francisco,7302
+2721,Sydney,7303
+2722,San Francisco,7304
+2723,San Francisco,7305
+2724,San Francisco,7314
+2725,Beijing,7315
+2726,"Southlake, Texas",7316
+2727,San Francisco,7317
+2728,"Southlake, Texas",7320
+2729,Beijing,7321
+2730,"Southlake, Texas",7322
+2731,"Seattle, Washington",7326
+2732,Mexico City,7327
+2733,Beijing,7328
+2734,Sydney,7329
+2735,Sydney,7331
+2736,Bombay,7332
+2737,Sydney,7337
+2738,Sydney,7359
+2739,Sydney,7360
+2740,Mexico City,7361
+2741,Mexico City,7362
+2742,Mexico City,7363
+2743,"Seattle, Washington",7364
+2744,Sydney,7366
+2745,Toronto,7367
+2746,Sydney,7369
+2747,Sydney,7370
+2748,Bombay,7375
+2749,Mexico City,7383
+2750,Mexico City,7384
+2751,Mexico City,7385
+2752,Toronto,7386
+2753,"Seattle, Washington",7387
+2754,San Francisco,7389
+2755,Sydney,7391
+2756,"Seattle, Washington",7394
+2757,Sydney,7395
+2758,Beijing,7396
+2759,Sydney,7400
+2760,San Francisco,7405
+2761,San Francisco,7406
+2762,Sydney,7407
+2763,Sydney,7409
+2764,Bombay,7411
+2765,Beijing,7414
+2766,Sydney,7415
+2767,San Francisco,7416
+2768,San Francisco,7417
+2769,San Francisco,7418
+2770,San Francisco,7419
+2771,Bombay,7427
+2772,San Francisco,7428
+2773,Sydney,7432
+2774,Sydney,7435
+2775,"Seattle, Washington",7436
+2776,Mexico City,7440
+2777,Sydney,7441
+2778,Mexico City,7442
+2779,San Francisco,7443
+2780,Sydney,7444
+2781,Sydney,7445
+2782,Mexico City,7449
+2783,Sydney,7450
+2784,Mexico City,7451
+2785,Mexico City,7454
+2786,"Seattle, Washington",7455
+2787,"Southlake, Texas",7458
+2788,Toronto,7459
+2789,New Jersey,7461
+2790,San Francisco,7463
+2791,Sydney,7466
+2792,New Jersey,7467
+2793,Beijing,7468
+2794,Beijing,7469
+2795,Beijing,7470
+2796,Beijing,7471
+2797,"Seattle, Washington",7474
+2798,Sydney,7481
+2799,Sydney,7484
+2800,Sydney,7485
+2801,Sydney,7486
+2802,"Seattle, Washington",7491
+2803,Toronto,7494
+2804,San Francisco,7495
+2805,Sydney,7496
+2806,Sydney,7502
+2807,San Francisco,7503
+2808,Beijing,7504
+2809,"Southlake, Texas",7505
+2810,Sydney,7510
+2811,Sydney,7511
+2812,"Southlake, Texas",7513
+2813,Mexico City,7514
+2814,Mexico City,7515
+2815,Beijing,7516
+2816,San Francisco,7527
+2817,Mexico City,7530
+2818,Sydney,7531
+2819,San Francisco,7532
+2820,Sydney,7536
+2821,"Seattle, Washington",7537
+2822,Toronto,7538
+2823,Sydney,7539
+2824,"Seattle, Washington",7543
+2825,Mexico City,7545
+2826,Sydney,7546
+2827,Mexico City,7549
+2828,Mexico City,7556
+2829,Sydney,7560
+2830,Beijing,7562
+2831,San Francisco,7563
+2832,San Francisco,7564
+2833,San Francisco,7575
+2834,San Francisco,7576
+2835,San Francisco,7577
+2836,San Francisco,7578
+2837,Mexico City,7585
+2838,Sydney,7589
+2839,Sydney,7594
+2840,Sydney,7602
+2841,Sydney,7608
+2842,Toronto,7615
+2843,Sydney,7616
+2844,Sydney,7617
+2845,Sydney,7618
+2846,Sydney,7619
+2847,Sydney,7620
+2848,New Jersey,7628
+2849,"Southlake, Texas",7629
+2850,San Francisco,7630
+2851,Sydney,7631
+2852,Sydney,7633
+2853,Sydney,7634
+2854,"Seattle, Washington",7636
+2855,Mexico City,7638
+2856,"Southlake, Texas",7642
+2857,New Jersey,7643
+2858,Bombay,7646
+2859,Bombay,7654
+2860,San Francisco,7655
+2861,"Seattle, Washington",7656
+2862,"Seattle, Washington",7659
+2863,Sydney,7660
+2864,Mexico City,7662
+2865,"Southlake, Texas",7665
+2866,Beijing,7666
+2867,Sydney,7667
+2868,New Jersey,7668
+2869,San Francisco,7676
+2870,Sydney,7677
+2871,Sydney,7678
+2872,San Francisco,7680
+2873,Sydney,7681
+2874,Beijing,7682
+2875,San Francisco,7683
+2876,San Francisco,7684
+2877,"Seattle, Washington",7695
+2878,Sydney,7696
+2879,Beijing,7697
+2880,San Francisco,7698
+2881,Sydney,7699
+2882,Sydney,7700
+2883,Beijing,7701
+2884,San Francisco,7703
+2885,Mexico City,7704
+2886,Sydney,7705
+2887,Mexico City,7707
+2888,Mexico City,7709
+2889,Mexico City,7722
+2890,Sydney,7723
+2891,Sydney,7724
+2892,New Jersey,7725
+2893,New Jersey,7726
+2894,San Francisco,7727
+2895,San Francisco,7732
+2896,Sydney,7733
+2897,Beijing,7734
+2898,Beijing,7735
+2899,Bombay,7736
+2900,Sydney,7761
+2901,Sydney,7775
+2902,Bombay,7780
+2903,Sydney,7782
+2904,Mexico City,7784
+2905,Sydney,7789
+2906,Mexico City,7790
+2907,Beijing,7804
+2908,Sydney,7806
+2909,Sydney,7808
+2910,Beijing,7811
+2911,San Francisco,7812
+2912,San Francisco,7813
+2913,San Francisco,7817
+2914,Beijing,7818
+2915,Beijing,7819
+2916,Sydney,7820
+2917,Sydney,7821
+2918,San Francisco,7824
+2919,Sydney,7830
+2920,Sydney,7836
+2921,Sydney,7837
+2922,Sydney,7841
+2923,Mexico City,7842
+2924,Sydney,7843
+2925,Bombay,7869
+2926,Sydney,7874
+2927,San Francisco,7875
+2928,Sydney,7878
+2929,Mexico City,7879
+2930,San Francisco,7888
+2931,Mexico City,7890
+2932,Mexico City,7897
+2933,Beijing,7898
+2934,San Francisco,7899
+2935,San Francisco,7902
+2936,Sydney,7903
+2937,Mexico City,7905
+2938,Mexico City,7906
+2939,San Francisco,7907
+2940,Sydney,7908
+2941,Sydney,7920
+2942,Mexico City,7923
+2943,Mexico City,7924
+2944,San Francisco,7927
+2945,Sydney,7932
+2946,Sydney,7933
+2947,Mexico City,7935
+2948,Mexico City,7936
+2949,Sydney,7943
+2950,San Francisco,7945
+2951,Mexico City,7946
+2952,Mexico City,7955
+2953,Sydney,7959
+2954,Mexico City,7961
+2955,Sydney,7962
+2956,San Francisco,7965
+2957,Sydney,7968
+2958,Sydney,7975
+2959,Mexico City,7978
+2960,Beijing,7979
+2961,Bombay,7980
+2962,Sydney,7997
+2963,San Francisco,8001
+2964,Sydney,8002
+2965,Beijing,8003
+2966,Beijing,8004
+2967,Mexico City,8005
+2968,Mexico City,8006
+2969,San Francisco,8007
+2970,Sydney,8010
+2971,Sydney,8013
+2972,Bombay,8021
+2973,"Southlake, Texas",8022
+2974,"Southlake, Texas",8023
+2975,Bombay,8024
+2976,"Southlake, Texas",8025
+2977,San Francisco,8033
+2978,Sydney,8035
+2979,Toronto,8036
+2980,San Francisco,8037
+2981,Bombay,8050
+2982,San Francisco,8051
+2983,Mexico City,8052
+2984,Mexico City,8053
+2985,Bombay,8054
+2986,Mexico City,8056
+2987,Mexico City,8057
+2988,Sydney,8058
+2989,Sydney,8059
+2990,Sydney,8063
+2991,Beijing,8064
+2992,Bombay,8069
+2993,Mexico City,8070
+2994,Mexico City,8071
+2995,Sydney,8075
+2996,Mexico City,8076
+2997,San Francisco,8080
+2998,New Jersey,8081
+2999,Bombay,8083
+3000,San Francisco,8093
+3001,Beijing,8094
+3002,Mexico City,8095
+3003,Bombay,8097
+3004,Bombay,8098
+3005,San Francisco,8100
+3006,Sydney,8101
+3007,Mexico City,8102
+3008,San Francisco,8105
+3009,Mexico City,8106
+3010,Sydney,8123
+3011,Sydney,8124
+3012,Mexico City,8125
+3013,Mexico City,8126
+3014,Sydney,8130
+3015,Mexico City,8131
+3016,Mexico City,8132
+3017,Mexico City,8133
+3018,Sydney,8137
+3019,Sydney,8138
+3020,Sydney,8139
+3021,San Francisco,8141
+3022,Sydney,8142
+3023,Sydney,8143
+3024,Sydney,8144
+3025,Sydney,8147
+3026,San Francisco,8148
+3027,Sydney,8149
+3028,Sydney,8150
+3029,Sydney,8151
+3030,Sydney,8154
+3031,Sydney,8155
+3032,Sydney,8156
+3033,Sydney,8157
+3034,Bombay,8158
+3035,Beijing,8161
+3036,Sydney,8162
+3037,New Jersey,8163
+3038,San Francisco,8164
+3039,Bombay,8165
+3040,New Jersey,8166
+3041,Bombay,8171
+3042,Bombay,8172
+3043,Sydney,8173
+3044,Sydney,8176
+3045,Mexico City,8178
+3046,Mexico City,8179
+3047,Sydney,8180
+3048,Mexico City,8181
+3049,Sydney,8188
+3050,Beijing,8192
+3051,Mexico City,8193
+3052,Mexico City,8207
+3053,San Francisco,8208
+3054,Sydney,8211
+3055,Mexico City,8212
+3056,Beijing,8216
+3057,San Francisco,8219
+3058,Mexico City,8222
+3059,San Francisco,8223
+3060,Bombay,8226
+3061,Mexico City,8227
+3062,Bombay,8233
+3063,Beijing,8235
+3064,Bombay,8236
+3065,Mexico City,8238
+3066,San Francisco,8239
+3067,San Francisco,8240
+3068,Mexico City,8243
+3069,San Francisco,8244
+3070,San Francisco,8245
+3071,Sydney,8246
+3072,Sydney,8247
+3073,"Seattle, Washington",8249
+3074,"Seattle, Washington",8250
+3075,San Francisco,8252
+3076,Bombay,8255
+3077,Mexico City,8256
+3078,Mexico City,8257
+3079,San Francisco,8259
+3080,Mexico City,8261
+3081,Mexico City,8262
+3082,Sydney,8263
+3083,Beijing,8264
+3084,San Francisco,8265
+3085,San Francisco,8266
+3086,San Francisco,8267
+3087,Sydney,8269
+3088,San Francisco,8271
+3089,Mexico City,8272
+3090,San Francisco,8275
+3091,Sydney,8276
+3092,Mexico City,8277
+3093,Sydney,8278
+3094,Sydney,8279
+3095,San Francisco,8287
+3096,Beijing,8292
+3097,Beijing,8293
+3098,Beijing,8294
+3099,Mexico City,8298
+3100,Sydney,8302
+3101,San Francisco,8303
+3102,Mexico City,8310
+3103,Sydney,8311
+3104,Sydney,8312
+3105,Beijing,8325
+3106,San Francisco,8326
+3107,Toronto,8327
+3108,Toronto,8328
+3109,"Seattle, Washington",8329
+3110,Bombay,8332
+3111,San Francisco,8333
+3112,Sydney,8334
+3113,Bombay,8335
+3114,Sydney,8336
+3115,Sydney,8339
+3116,San Francisco,8340
+3117,Mexico City,8343
+3118,Bombay,8351
+3119,Bombay,8352
+3120,Bombay,8353
+3121,Sydney,8355
+3122,Sydney,8356
+3123,Sydney,8357
+3124,San Francisco,8358
+3125,San Francisco,8365
+3126,Sydney,8366
+3127,Beijing,8375
+3128,San Francisco,8376
+3129,Sydney,8377
+3130,Sydney,8378
+3131,Sydney,8380
+3132,San Francisco,8381
+3133,Sydney,8385
+3134,Mexico City,8386
+3135,Mexico City,8387
+3136,San Francisco,8388
+3137,Beijing,8389
+3138,Sydney,8390
+3139,San Francisco,8392
+3140,Mexico City,8394
+3141,Sydney,8395
+3142,San Francisco,8396
+3143,Sydney,8397
+3144,New Jersey,8399
+3145,Bombay,8400
+3146,Beijing,8401
+3147,Sydney,8402
+3148,Sydney,8405
+3149,Mexico City,8406
+3150,Sydney,8415
+3151,Mexico City,8423
+3152,Bombay,8425
+3153,Sydney,8426
+3154,Bombay,8431
+3155,Beijing,8432
+3156,San Francisco,8433
+3157,Mexico City,8437
+3158,Mexico City,8438
+3159,Sydney,8447
+3160,Mexico City,8449
+3161,Sydney,8452
+3162,Mexico City,8459
+3163,San Francisco,8460
+3164,San Francisco,8462
+3165,San Francisco,8464
+3166,San Francisco,8465
+3167,Toronto,8468
+3168,Sydney,8469
+3169,San Francisco,8470
+3170,Beijing,8471
+3171,Sydney,8473
+3172,San Francisco,8474
+3173,San Francisco,8477
+3174,Bombay,8478
+3175,Beijing,8479
+3176,Bombay,8480
+3177,Beijing,8481
+3178,Sydney,8483
+3179,Sydney,8487
+3180,Mexico City,8495
+3181,Sydney,8496
+3182,"Seattle, Washington",8497
+3183,Beijing,8502
+3184,New Jersey,8503
+3185,Sydney,8504
+3186,San Francisco,8506
+3187,Mexico City,8507
+3188,Bombay,8512
+3189,Sydney,8513
+3190,"Seattle, Washington",8514
+3191,Mexico City,8515
+3192,New Jersey,8519
+3193,Beijing,8520
+3194,San Francisco,8522
+3195,Mexico City,8525
+3196,"Seattle, Washington",8530
+3197,San Francisco,8532
+3198,San Francisco,8533
+3199,San Francisco,8538
+3200,Mexico City,8543
+3201,Sydney,8544
+3202,Sydney,8545
+3203,Mexico City,8548
+3204,Mexico City,8549
+3205,Mexico City,8550
+3206,San Francisco,8551
+3207,San Francisco,8565
+3208,Sydney,8566
+3209,Mexico City,8572
+3210,Sydney,8573
+3211,Sydney,8574
+3212,Bombay,8575
+3213,Sydney,8576
+3214,Bombay,8577
+3215,Sydney,8579
+3216,Sydney,8580
+3217,Sydney,8581
+3218,Mexico City,8609
+3219,Bombay,8610
+3220,Beijing,8613
+3221,Sydney,8616
+3222,Mexico City,8619
+3223,San Francisco,8620
+3224,San Francisco,8621
+3225,San Francisco,8622
+3226,Beijing,8623
+3227,Beijing,8624
+3228,Beijing,8625
+3229,Sydney,8626
+3230,San Francisco,8627
+3231,Sydney,8628
+3232,New Jersey,8646
+3233,Sydney,8647
+3234,Sydney,8648
+3235,Sydney,8649
+3236,Sydney,8650
+3237,Sydney,8651
+3238,Toronto,8653
+3239,Sydney,8654
+3240,Sydney,8655
+3241,San Francisco,8656
+3242,Mexico City,8658
+3243,Sydney,8659
+3244,Sydney,8660
+3245,New Jersey,8668
+3246,Sydney,8670
+3247,San Francisco,8675
+3248,Mexico City,8676
+3249,Sydney,8677
+3250,San Francisco,8682
+3251,San Francisco,8683
+3252,San Francisco,8684
+3253,San Francisco,8685
+3254,Sydney,8686
+3255,Bombay,8687
+3256,San Francisco,8693
+3257,Beijing,8694
+3258,Bombay,8695
+3259,San Francisco,8696
+3260,Sydney,8697
+3261,Beijing,8700
+3262,Sydney,8701
+3263,Sydney,8702
+3264,Sydney,8706
+3265,Beijing,8708
+3266,Mexico City,8709
+3267,Sydney,8710
+3268,Sydney,8711
+3269,Sydney,8712
+3270,Mexico City,8713
+3271,Sydney,8714
+3272,Mexico City,8723
+3273,Bombay,8726
+3274,Mexico City,8733
+3275,Sydney,8735
+3276,Mexico City,8736
+3277,Mexico City,8737
+3278,Mexico City,8738
+3279,Mexico City,8739
+3280,New Jersey,8740
+3281,New Jersey,8741
+3282,San Francisco,8742
+3283,San Francisco,8743
+3284,New Jersey,8744
+3285,Beijing,8745
+3286,Beijing,8746
+3287,New Jersey,8747
+3288,Bombay,8748
+3289,Sydney,8749
+3290,Beijing,8750
+3291,Mexico City,8751
+3292,Sydney,8755
+3293,Sydney,8756
+3294,Beijing,8760
+3295,Sydney,8788
+3296,Sydney,8791
+3297,"Seattle, Washington",8792
+3298,Bombay,8793
+3299,Sydney,8794
+3300,Sydney,8795
+3301,San Francisco,8796
+3302,Sydney,8797
+3303,Sydney,8798
+3304,San Francisco,8799
+3305,Mexico City,8800
+3306,"Seattle, Washington",8803
+3307,"Seattle, Washington",8804
+3308,"Seattle, Washington",8805
+3309,San Francisco,8809
+3310,Beijing,8820
+3311,Sydney,8829
+3312,San Francisco,8830
+3313,San Francisco,8841
+3314,San Francisco,8842
+3315,Bombay,8844
+3316,Bombay,8847
+3317,Sydney,8848
+3318,Sydney,8849
+3319,Sydney,8853
+3320,Mexico City,8856
+3321,Sydney,8857
+3322,Bombay,8858
+3323,Sydney,8859
+3324,Mexico City,8860
+3325,Sydney,8861
+3326,Mexico City,8862
+3327,Sydney,8867
+3328,Beijing,8868
+3329,Sydney,8870
+3330,Bombay,8871
+3331,Sydney,8873
+3332,"Seattle, Washington",8874
+3333,Mexico City,8889
+3334,Mexico City,8892
+3335,San Francisco,8893
+3336,Mexico City,8913
+3337,Mexico City,8914
+3338,"Seattle, Washington",8915
+3339,Mexico City,8916
+3340,Bombay,8922
+3341,Mexico City,8923
+3342,Toronto,8925
+3343,"Seattle, Washington",8926
+3344,Sydney,8927
+3345,San Francisco,8929
+3346,San Francisco,8930
+3347,Sydney,8936
+3348,Sydney,8942
+3349,Toronto,8943
+3350,Toronto,8944
+3351,"Seattle, Washington",8945
+3352,Toronto,8946
+3353,Sydney,8947
+3354,Toronto,8948
+3355,Mexico City,8949
+3356,Bombay,8950
+3357,Sydney,8951
+3358,"Seattle, Washington",8952
+3359,Toronto,8953
+3360,"Seattle, Washington",8954
+3361,"Southlake, Texas",8955
+3362,Sydney,8956
+3363,Mexico City,8967
+3364,Bombay,8968
+3365,Bombay,8971
+3366,Sydney,8972
+3367,Beijing,8976
+3368,"Southlake, Texas",8977
+3369,Bombay,8978
+3370,Bombay,8979
+3371,Bombay,8980
+3372,Sydney,8981
+3373,San Francisco,8987
+3374,New Jersey,8988
+3375,New Jersey,8989
+3376,New Jersey,8990
+3377,Beijing,8991
+3378,Beijing,8992
+3379,San Francisco,8999
+3380,Sydney,9000
+3381,San Francisco,9003
+3382,San Francisco,9004
+3383,San Francisco,9005
+3384,San Francisco,9006
+3385,Bombay,9007
+3386,Mexico City,9008
+3387,San Francisco,9009
+3388,San Francisco,9010
+3389,Mexico City,9011
+3390,Toronto,9014
+3391,San Francisco,9016
+3392,Sydney,9017
+3393,Mexico City,9021
+3394,New Jersey,9023
+3395,Mexico City,9027
+3396,Bombay,9028
+3397,Bombay,9032
+3398,Bombay,9033
+3399,Sydney,9036
+3400,San Francisco,9037
+3401,Mexico City,9038
+3402,San Francisco,9039
+3403,San Francisco,9040
+3404,Sydney,9042
+3405,Beijing,9044
+3406,New Jersey,9045
+3407,Sydney,9051
+3408,Bombay,9060
+3409,Beijing,9061
+3410,Sydney,9062
+3411,Sydney,9063
+3412,Bombay,9065
+3413,Sydney,9066
+3414,Sydney,9073
+3415,Sydney,9076
+3416,Sydney,9078
+3417,Beijing,9083
+3418,Sydney,9084
+3419,Beijing,9085
+3420,Sydney,9086
+3421,Sydney,9092
+3422,Sydney,9093
+3423,Sydney,9094
+3424,Sydney,9095
+3425,Bombay,9100
+3426,Mexico City,9104
+3427,Bombay,9106
+3428,Bombay,9107
+3429,San Francisco,9108
+3430,San Francisco,9109
+3431,Sydney,9113
+3432,Bombay,9114
+3433,San Francisco,9115
+3434,Sydney,9122
+3435,Beijing,9123
+3436,Mexico City,9125
+3437,"Seattle, Washington",9129
+3438,Mexico City,9130
+3439,Beijing,9131
+3440,New Jersey,9134
+3441,San Francisco,9135
+3442,San Francisco,9142
+3443,Mexico City,9143
+3444,San Francisco,9144
+3445,San Francisco,9146
+3446,Mexico City,9148
+3447,Mexico City,9151
+3448,San Francisco,9153
+3449,San Francisco,9154
+3450,San Francisco,9155
+3451,Beijing,9159
+3452,Sydney,9162
+3453,Sydney,9163
+3454,Bombay,9164
+3455,San Francisco,9165
+3456,Sydney,9168
+3457,Mexico City,9169
+3458,Toronto,9171
+3459,Beijing,9175
+3460,San Francisco,9176
+3461,"Seattle, Washington",9177
+3462,"Seattle, Washington",9179
+3463,Mexico City,9184
+3464,San Francisco,9193
+3465,Sydney,9194
+3466,Mexico City,9205
+3467,Sydney,9206
+3468,Sydney,9207
+3469,Beijing,9210
+3470,Mexico City,9224
+3471,Toronto,9225
+3472,Mexico City,9226
+3473,Bombay,9227
+3474,Beijing,9230
+3475,Bombay,9231
+3476,Bombay,9232
+3477,Beijing,9233
+3478,San Francisco,9234
+3479,Toronto,9235
+3480,Sydney,9239
+3481,San Francisco,9240
+3482,New Jersey,9245
+3483,Sydney,9246
+3484,Sydney,9247
+3485,San Francisco,9251
+3486,Beijing,9252
+3487,San Francisco,9253
+3488,San Francisco,9254
+3489,San Francisco,9255
+3490,New Jersey,9256
+3491,San Francisco,9257
+3492,San Francisco,9258
+3493,San Francisco,9259
+3494,San Francisco,9260
+3495,San Francisco,9278
+3496,San Francisco,9279
+3497,Sydney,9280
+3498,Mexico City,9281
+3499,San Francisco,9285
+3500,"Seattle, Washington",9286
+3501,Beijing,9287
+3502,Beijing,9290
+3503,Mexico City,9292
+3504,Sydney,9293
+3505,Sydney,9294
+3506,Sydney,9296
+3507,Sydney,9300
+3508,San Francisco,9301
+3509,Beijing,9304
+3510,Mexico City,9306
+3511,Sydney,9308
+3512,Sydney,9309
+3513,San Francisco,9310
+3514,New Jersey,9316
+3515,New Jersey,9317
+3516,New Jersey,9318
+3517,New Jersey,9322
+3518,San Francisco,9323
+3519,New Jersey,9324
+3520,New Jersey,9325
+3521,"Seattle, Washington",9326
+3522,San Francisco,9327
+3523,Sydney,9328
+3524,Sydney,9330
+3525,Mexico City,9339
+3526,Sydney,9340
+3527,"Southlake, Texas",9341
+3528,San Francisco,9343
+3529,San Francisco,9353
+3530,Beijing,9354
+3531,Sydney,9359
+3532,San Francisco,9360
+3533,San Francisco,9361
+3534,San Francisco,9362
+3535,Sydney,9366
+3536,Sydney,9367
+3537,San Francisco,9368
+3538,San Francisco,9369
+3539,Mexico City,9385
+3540,Sydney,9388
